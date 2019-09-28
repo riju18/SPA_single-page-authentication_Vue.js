@@ -1,4 +1,4 @@
-# 2.8_gameplace
+# Gameplace
 
 ## Project setup
 ```
